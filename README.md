@@ -1,1 +1,1 @@
-app
+flutter app
