@@ -1,1 +1,1 @@
-flutter app
+flutter web app
